@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import "./App.css";
 import Componente from "./components/Componente";
 import Contador from "./components/Contador";
